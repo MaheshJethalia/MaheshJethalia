@@ -10,7 +10,7 @@ I'm a bioinformatics enthusiast with a passion for decoding complex biological d
 ## 🔧 Technical Skills
 
 - **Languages**: Python, R, C, Bash
-- **Bioinformatics Tools**: Bioconductor, Galaxy, QIIME2, BLAST
+- **Bioinformatics Tools**: Bioconductor, Galaxy, BLAST
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning**: scikit-learn, TensorFlow
 - **Version Control**: Git, GitHub
